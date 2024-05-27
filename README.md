@@ -7,4 +7,15 @@
 - With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 
-[Link to competiton]([https://www.example.com](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview).
+[Link to competiton](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview).
+
+### Model :-
+- LinearRegression
+
+### Addition modification :-
+- Feature selection usinf SelectKBest and f_regression and f_classify
+- Handling missing and null value
+- model validation with RepeatedKFoldCross Validation
+- L2 Regularization
+
+### Score :- 89%
